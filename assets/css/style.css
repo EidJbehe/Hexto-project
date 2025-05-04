@@ -139,9 +139,9 @@ display: none;
   height: auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
   .hero-img {
-    width: 100%;
+    width:50%;
     height: auto;
     margin: 0 auto;
   }
