@@ -91,9 +91,7 @@ nav .menu-icon {
 
 @media screen and (max-width: 768px) {
   .hero-lamp {
-    width: 30%;
-    top: -50px;
-    left: -20px;
+display: none;
   }
 }
 
